@@ -28,6 +28,9 @@ namespace RepositoryTest
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             btnTest.Content = "U klikte";
+
+
+
         }
     }
 }
